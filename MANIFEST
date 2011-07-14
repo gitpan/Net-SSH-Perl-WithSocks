@@ -1,0 +1,8 @@
+Changes
+lib/Net/SSH/Perl/WithSocks.pm
+MANIFEST			This list of files
+MANIFEST.SKIP
+README
+t/00-scratch.t
+t/01-sanity.t
+META.yml                                 Module meta-data (added by MakeMaker)
