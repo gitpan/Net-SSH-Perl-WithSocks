@@ -1,8 +1,13 @@
 Changes
 lib/Net/SSH/Perl/WithSocks.pm
+LICENSE
+Makefile.PL
 MANIFEST			This list of files
-MANIFEST.SKIP
+META.yml			Module meta-data (added by MakeMaker)
+MYMETA.yml
 README
-t/00-scratch.t
-t/01-sanity.t
-META.yml                                 Module meta-data (added by MakeMaker)
+t/load.t
+t/pod.t
+t/pod_coverage.t
+t/prereq.t
+t/test_manifest
